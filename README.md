@@ -2,7 +2,7 @@
 
 This repository contains the slides and link to the recording of the tutorial that was presented at DSAA conference 2020. The tutorial proposal is also included in the repository.
 
-[Tutorial Link][https://www.youtube.com/watch?v=ejGnQPGz0qk]
+[Tutorial Link](https://www.youtube.com/watch?v=ejGnQPGz0qk)
 
 The outline of the tutorial is as follows:
 
